@@ -1,0 +1,43 @@
+[
+        //Mod improvement
+        {
+                "name": "Offshore Wind Farm",
+                "terrainsCanBeBuiltOn": ["Coast"],
+                "production": 3,
+                "gold": 2,
+                "techRequired": "Predictive Systems"
+        },
+        {
+                "name": "Seastead",
+                "terrainsCanBeBuiltOn": ["Coast"],
+                "food": 2,
+                "production": 1,
+                "culture": 1,
+                "techRequired": "Seasteads"
+        },
+        {
+                "name": "Wind Farm",
+                "terrainsCanBeBuiltOn": ["Desert","Grassland","Tundra","Snow","Plains","Flood plains"],
+                "production": 4,
+                "gold": 2,
+                "turnsToBuild": 7,
+                "techRequired": "Composites"
+        },
+
+        //Resouce-specific
+        {
+                "name": "Oil well",
+                "turnsToBuild": 9,
+                "techRequired": "Biology",
+                "improvingTech": "Predictive Systems",
+                "improvingTechStats": {"production": 1}
+        },
+        {
+                "name": "Quarry",
+                "turnsToBuild": 8,
+                "techRequired": "Masonry",
+                "improvingTech": "Predictive Systems",
+                "improvingTechStats": {"production": 1}
+        }
+
+]
