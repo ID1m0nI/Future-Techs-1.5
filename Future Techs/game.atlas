@@ -1,0 +1,104 @@
+
+game.png
+size: 2048,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+ImprovementIcons/Offshore Wind Farm
+  rotate: false
+  xy: 2, 236
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Seastead
+  rotate: false
+  xy: 260, 236
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Wind Farm
+  rotate: false
+  xy: 1034, 236
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+RecourceIcons/Shallow Water
+  rotate: false
+  xy: 518, 236
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+RecourceIcons/Strong Winds
+  rotate: false
+  xy: 776, 236
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TechIcons/Composites
+  rotate: false
+  xy: 2, 74
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+TechIcons/Predictive Systems
+  rotate: false
+  xy: 1292, 332
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+TechIcons/Seasteads
+  rotate: false
+  xy: 164, 74
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+TechIcons/Smart Materials
+  rotate: false
+  xy: 1454, 332
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Offshore Wind Farm
+  rotate: false
+  xy: 2, 38
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Seastead
+  rotate: false
+  xy: 1292, 295
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Shallow Water
+  rotate: false
+  xy: 326, 206
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Strong Winds
+  rotate: false
+  xy: 1616, 464
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Wind Farm
+  rotate: false
+  xy: 2, 2
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
