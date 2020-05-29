@@ -1,0 +1,19 @@
+[
+        //Mod Resouce
+        {
+                "name": "Shallow Water",
+                "resourceType": "Luxury",
+                "terrainsCanBeFoundOn": ["Coast"],
+                "food": 1,
+                "improvement": "Seastead",
+                "improvementStats": {"food": 2, "production": 1, "culture": 1},
+        },
+        {
+                "name": "Strong Winds",
+                "resourceType": "Luxury",
+                "terrainsCanBeFoundOn": ["Coast"],
+                "production": 1,
+                "improvement": "Offshore Wind Farm",
+                "improvementStats": {"production": 3, "gold": 2},
+        }
+]

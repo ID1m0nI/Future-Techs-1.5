@@ -1,0 +1,89 @@
+[
+	      {
+				       "columnNumber": 14,
+							 "era": "Information era",
+							 "techCost": 6400,
+							 "buildingCost": 750,
+							 "wonderCost": 2000,
+							 "techs": [
+								       {
+											         "name": "Composites",
+															 "row": 5,
+															 "prerequisites": ["Electronics"],
+															 "quote": "'All material things seem to have been composed of the hard and solid particles … variously associated with the first Creation by the counsel of an Intelligent Agent.' – Isaac Newton"
+											 }
+							  ]
+	       },
+         {
+                "columnNumber": 15,
+                "era": "Future era",
+                "techCost": 9500,
+                "buildingCost": 750,
+                "wonderCost": 1250,
+                "techs": [
+                        {
+											          "name": "Seasteads",
+											          "row": 2,
+											          "prerequisites": ["Ecology"],
+														    "quote": "'I must go down to the seas again, to the vagrant gypsy life, To the gull’s way and the whale’s way where the wind’s like a whetted knife' – Jonh Mansfild"
+                        },
+										    {
+											          "name": "Predictive Systems",
+														    "row": 6,
+														    "prerequisites": ["Rocketry"],
+														    "uniques": ["+1 Production to Quarry and Oil Well improvements."],
+														    "quote": "'If the enemy know not where he will be attacked, he must prepare in every quarter, and so be everywhere weak.' – Sun Tzu"
+												},
+												{
+													      "name": "Satellites",
+	                              "row": 5,
+	                              "prerequisites": ["Nuclear Fission","Rocketry","Composites"],
+                               	"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' – Lyndon B. Johnson"
+									      }
+							  ]
+		    },
+
+				{
+				        "columnNumber": 16,
+						    "era": "Future era",
+						    "techCost": 9500,
+						    "buildingCost": 750,
+						    "wonderCost": 1250,
+						    "techs": [
+							          {
+										            "name": "Smart Materials",
+													      "row": 5,
+													      "prerequisites": ["Satellites"],
+													      "quote": "'It ascends from the earth to the heaven, and it again descends to the earth and receives the force of things superior and inferior.' – Hermes Trismegistus"
+												},
+												{
+			                        	"name": "Particle Physics",
+			                        	"row": 4,
+			                         	"prerequisites": ["Mobile Tactics","Satellites"],
+			                        	"quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' – Isaac Newton"
+		                   	},
+			                  {
+				                       "name": "Nanotechnology",
+				                       "row": 7,
+			                         "prerequisites": ["Robotics","Lasers","Predictive Systems"],
+			                         "quote": "'The impact of nanotechnology is expected to exceed the impact that the electronics revolution has had on our lives.' – Richard Schwartz"
+			                  }
+							  ]
+		    },
+        {
+					      "columnNumber": 17,
+						    "era": "Future era",
+						    "techCost": 9500,
+						    "buildingCost": 750,
+					 	    "wonderCost": 1250,
+						    "techs": [
+							          {
+											          "name": "Future Tech",
+													      "row": 5,
+													      "prerequisites": ["Nanotechnology","Particle Physics","Smart Materials"],
+													      "uniques": ["Who knows what the future holds?"],
+													      "quote": "'I think we agree, the past is over.' – George W. Bush"
+												}
+								]
+				}
+]
